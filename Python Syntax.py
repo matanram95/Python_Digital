@@ -1,4 +1,4 @@
-# This in Int
+# This is Int
 a=10
 # This is Float
 b=5.5
