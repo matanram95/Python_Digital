@@ -1,7 +1,7 @@
-# This in Int
+# In Python, int is a built-in data type that represents a whole number
 a=10
-# This is Float
+# in Python, float is a decimal pint
 b=5.5
-# This is Str
+# In Python, str is a built-in data type that represents a sequence of characters
 c="Matan Ran"
-print(type(a))
+print(type(b))
